@@ -2,18 +2,3 @@
 A Robot that conduct Medical Diagnosis based on multiple kinds of data: Text, Voice, Image, laboratory report
 
 
-
-
-Text:
-**DATA**
-
-
-Voice:
-
-
-Image:
-
-
-laboratory report:
-
-
